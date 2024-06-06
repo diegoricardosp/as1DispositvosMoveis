@@ -1,0 +1,1 @@
+O desafio desta atividade avaliativa é montar um app que, a partir da entrada de dados do usuário, consiga mostrar seu IMC. O ideal é utilizar os componentes aprendidos durante as semanas anteriores (TextView, EditText, Buttons, Toast etc.), usando boas práticas de design e de programação, de forma a criar um app que possa cumprir os objetivos da tarefa.
